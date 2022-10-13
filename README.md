@@ -27,4 +27,4 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gvadam&theme=jolly)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvadam&exclude_repo=math10-intro-to-data-science&layout=compact&theme=jolly&langs_count=7)](https://github.com/gvadam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvadam&layout=compact&theme=jolly&langs_count=8&exclude_repo=math9-intro-to-numerical-analysis-final-project,math10-intro-to-data-science)](https://github.com/gvadam/github-readme-stats)
