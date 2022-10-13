@@ -17,7 +17,7 @@ I’m an Android Developer with a background in Mathematics.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### :notebook: Experience with Kotlin
 XML, Room, Material design, Timber Library, Navigation Components, Recyclerview, Scrollview, MVVM Architecture, Activity Lifecycles, 
@@ -27,4 +27,4 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gvadam&theme=jolly)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvadam&layout=compact&theme=jolly)](https://github.com/gvadam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvadam&exclude_repo=math10-intro-to-data-science&layout=compact&theme=jolly)](https://github.com/gvadam/github-readme-stats)
