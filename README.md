@@ -47,7 +47,7 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 
 :pushpin: A To-Do App where you can login to add, edit, and delete tasks
 
-:pushpin: Firebase, ConstraintLayout, Navigation Component, Viewbinding
+:pushpin: Firebase, Authentication, Realtime Database, DialogFragment, ConstraintLayout, Navigation Component, Viewbinding
 
 <h3 align="center">
   <a href="https://github.com/gvadam/notes_app">
