@@ -40,6 +40,16 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 </h1>
 
 <h3 align="center">
+  <a href="https://github.com/gvadam/SimplyDo">
+    To-Do App 
+  </a>
+</h3>
+
+:pushpin: A To-Do App where you can login to add, edit, and delete tasks
+
+:pushpin: Firebase, ConstraintLayout, Navigation Component, Viewbinding
+
+<h3 align="center">
   <a href="https://github.com/gvadam/notes_app">
     Note App 
   </a>
