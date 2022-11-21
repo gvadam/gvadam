@@ -50,6 +50,17 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 :pushpin: Firebase, Authentication, Realtime Database, DialogFragment, ConstraintLayout, Navigation Component, Viewbinding
 
 <h3 align="center">
+  <a href="https://github.com/gvadam/tic-tac-toe">
+    Tic-Tac-Toe App 
+  </a>
+</h3>
+
+:pushpin: A multi-player game of Tic-Tac-Toe that tracks the players' points and allows the users to restart the game or move onto the new round
+
+:pushpin: LinearLayout, Viewbinding
+
+
+<h3 align="center">
   <a href="https://github.com/gvadam/notes_app">
     Note App 
   </a>
