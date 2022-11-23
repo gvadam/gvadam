@@ -105,7 +105,7 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 :pushpin: Computed the PageRank value of each city and the correlation matrix between carriers and their origin city
 
 <h3 align="center">
-  <a href="https://github.com/gvadam/https://github.com/gvadam/math10-intro-to-data-science">
+  <a href="https://github.com/gvadam/math10-intro-to-data-science">
     Data Science - Fashion MNIST Data
   </a>
 </h3>
@@ -114,7 +114,7 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 
 :pushpin: Juypter Notebook, Python, Pandas, Numpy, Matplotlib, Logistic Regression, Principle Component Analysis, Scikit-learn, kNN, IsoMap
 
-:pushpin: Trains machine learning models to classify images of clothing items to their respective category (shits, pants, shoes, etc.)
+:pushpin: Trains machine learning models to classify images of clothing items to their respective categories (shirts, pants, shoes, etc.) with 89.34% accuracy.
 
 
 <h1 align="center">
