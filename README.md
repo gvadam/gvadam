@@ -117,6 +117,16 @@ ConstraintLayout/FrameLayout/LinearLayout/RelativeLayout, Hillt, OkHTTP, Retrofi
 :pushpin: Trains machine learning models to classify images of clothing items to their respective categories (shirts, pants, shoes, etc.) with 89.34% accuracy.
 
 
+<h3 align="center">
+  <a href="https://github.com/gvadam/AnagramSolver">
+    Anagram Solver
+  </a>
+</h3>
+
+:pushpin: Java, jGRASP
+
+:pushpin: This program finds and prints out combinations of anagrams from a given word or phrase based on what's in the dictionary.
+
 <h1 align="center">
 :fire: My Stats :
 </h1>
